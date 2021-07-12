@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hermansildnes)
 
+I'm Herman Sildnes - a self-tought python-programmer interested in machine learning and artificial intelligence. 
 <!--
 **hermansildnes/hermansildnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
