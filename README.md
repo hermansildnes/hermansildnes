@@ -4,7 +4,7 @@ I am Herman Sildnes - You will usually find me working on some casual python pro
 
 ...
 
-Btw - I use Arch
+Btw, I use Arch
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hermansildnes)
 
