@@ -2,7 +2,7 @@
 ## Who am I?
 I am Herman Sildnes - You will usually find me working on some casual python project or customizing my desktop.
 
-....
+...
 
 Btw, I use Arch
 
