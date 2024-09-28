@@ -1,12 +1,4 @@
-### Hi there 👋
-## Who am I?
-I am Herman Sildnes - You will usually find me working on some casual python project or customizing my desktop.
-
-...
-
-Btw - I use Arch
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hermansildnes)
+![Metrics](https://metrics.lecoq.io/insights/hermansildnes)
 
 <!--
 **hermansildnes/hermansildnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
