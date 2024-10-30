@@ -6,10 +6,6 @@ Norwegian pursuing a BSc Computer Science in London. I am usually deep in some n
 ### 🔭 Have a look at my [website](https://sildnes.com).
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herman-sildnes-2581a7223/) || [![Mail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:herman.sildnes@proton.me)
-
-
- or reach me on [mail](mailto:herman.sildnes@proton.me) .
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herman-sildnes-2581a7223/) [![Mail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:herman.sildnes@proton.me)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhermansildnes&label=VISITORS&labelColor=%23697689&countColor=%23555555)
