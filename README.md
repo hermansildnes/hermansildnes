@@ -1,7 +1,7 @@
 
 #  Hi, I am Herman Sildnes 👨‍💻
 
-Norwegian pursuing a BSc Computer Science in London. I am usually deep in some new rabbit hole, but current interests include networking, security and data analysis. If I'm not in front of a computer, you will find me in the gym playing squash or working out.
+Norwegian pursuing a BSc Computer Science in London. I am usually deep in some new rabbit hole, but current interests include security, privacy and data analysis. If I'm not in front of a computer, you will find me in the gym playing squash or working out.
 
 ### 🔭 Have a look at my [website](https://sildnes.com).
 
