@@ -1,7 +1,7 @@
 
 #  Hi, I am Herman 👨‍💻
 
-Norwegian pursuing a BSc Computer Science in London. I am usually deep down some new rabbit hole, but current interests include machine learning and building integrating systems with agentic AI. If I'm not in front of a computer, you will find me in the gym playing squash or working out.
+Occasionally working towards a BSc Computer Science in London. Look out for something (V)ery soon 🫣
 
 ### 🔭 Have a look at my [website](https://sildnes.com).
 
