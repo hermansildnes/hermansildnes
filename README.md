@@ -1,9 +1,11 @@
 
 #  Hi, I am Herman 👨‍💻
+SWE Intern @ Cloudflare 
 
-Occasionally working towards a BSc Computer Science in London. Look out for something (V)ery soon 🫣
+Occasionally working towards a BSc Computer Science in London. Building a better internet this summer ☁️
 
-### 🔭 Have a look at my [website](https://sildnes.com).
+
+### 🔭 Have a look at my exceptionally primitive and out of date [website](https://sildnes.com).
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hermansildnes) [![Mail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:github@sildnes.com)
