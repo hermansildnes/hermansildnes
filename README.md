@@ -1,8 +1,8 @@
 
 #  Hi, I am Herman 👨‍💻
-SWE Intern @ Cloudflare 
+Prev @ Cloudflare 
 
-Occasionally working towards a BSc Computer Science in London. Building a better internet this summer ☁️
+Occasionally working towards a BSc Computer Science in London.
 
 
 ### 🔭 Have a look at my exceptionally primitive and out of date [website](https://sildnes.com).
